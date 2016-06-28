@@ -5,7 +5,7 @@ use warnings;
 package Acme::Devel::Hide::Tiny;
 # ABSTRACT: Hide a perl module for testing, in one statement
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 1;
 
