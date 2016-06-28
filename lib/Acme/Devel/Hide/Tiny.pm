@@ -61,7 +61,7 @@ When perl sees a coderef in C<@INC>, it gives the coderef a chance to
 provide the source code of that module.  In this case, if the path is the
 one we want to hide, it returns a handle to source code that dies with the
 message we want and perl won't continue looking at @<INC> to find the real
-module source.  The module is hidden and dies with a message simliar to the
+module source.  The module is hidden and dies with a message similar to the
 one that would happen if it weren't installed.
 
 =cut
