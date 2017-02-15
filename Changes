@@ -2,6 +2,8 @@ Revision history for Acme-Devel-Hide-Tiny
 
 {{$NEXT}}
 
+0.002     2017-02-15 08:17:00-05:00 America/New_York
+
     - Updated: simplified (dies directly in hook) and better
       matches expected error text
 
